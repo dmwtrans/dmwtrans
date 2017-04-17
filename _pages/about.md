@@ -46,10 +46,8 @@ Currently our company has partnered with one of the leading software companies M
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][heading2 title="Our Values" align="left"][/heading2][vc_column_text css=".vc_custom_1465379792472{margin-bottom: 0px !important;}"]Benean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio
 
 Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/3" el_class="padding20 light-text"][commitment_box title="DM World Commitment" extra_class="bg-2 padding30" css=".vc_custom_1486664552874{margin-right: 20px !important;margin-left: 20px !important;padding-bottom: 135px !important;}"]
-
 <p class="lead big"><i>We are commited to be the leading logistic solutions provider to our customer. We continually improving &amp; implementing a quality management to achieve it
-</i>
-
+</i></p>
 <img class="alignnone size-full wp-image-533" src="http://demo.vegatheme.com/gocargo/demo3/wp-content/uploads/sites/3/2016/06/signature.png" alt="signature" width="120" height="47" />
 <div class="divider-single"></div>
 <b>Abduvosit Razikov</b>, Vice President
