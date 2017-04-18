@@ -30,8 +30,8 @@ vidbg_custom_overlay_html:
 ---
 [vc_row css=".vc_custom_1465378781704{padding-top: 90px !important;padding-bottom: 70px !important;}"][vc_column width="1/2" offset="vc_col-md-6"][vc_single_image image="1135" img_size="full" alignment="center"][/vc_column][vc_column offset="vc_col-md-6"][heading2 title="DM World Transportation" align="justify"]
 <p style="font-size: 20px; text-align: justify; text-align-last: right; text-justify: inter-word; color: #000000; font-weight: lighter;">DM World Transportation LLC is a provider of a variety of transportation services, which include dry van, refrigerated, dedicated, brokerage, and cargo van fleet. We Operate out of our corporate office located in Orlando FL, currently we have a fleet of 183 Tractors and growing with over 210 trailers, as well as access to over 10,000 carrier partners. Our services include dry van truckload, temperature-controlled truckload, dedicated truckload services, truckload freight brokerage services, and cargo van services.</p>
-<p style="font-size: 20px; font-weight: lighter; text-align: right;"><a href="#">Read more</a></p>
-[/heading2][vc_column_text css=".vc_custom_1492183035475{margin-bottom: 30px !important;}"]DM World Transportation is a provider of a variety of transportation services, which include dry van, refrigerated, dedicated, brokerage, and cargo van fleet. Our corporate office is located in Orlando FL.  Currently, we have a fleet of 120 tractors with over 120 trailers, as well as access to third-party equipment providers. DM World is able to arrange for the transportation of all general commodities for customers throughout the United States.[/vc_column_text][vc_column_text css=".vc_custom_1492528366553{margin-bottom: 30px !important;}"]
+<p style="font-size: 20px; font-weight: lighter; text-align: right;">[/heading2][vc_column_text css=".vc_custom_1492183035475{margin-bottom: 30px !important;}"]DM World Transportation is a provider of a variety of transportation services, which include dry van, refrigerated, dedicated, brokerage, and cargo van fleet. Our corporate office is located in Orlando FL.  Currently, we have a fleet of 120 tractors with over 120 trailers, as well as access to third-party equipment providers. DM World is able to arrange for the transportation of all general commodities for customers throughout the United States.[/vc_column_text][vc_column_text css=".vc_custom_1492528366553{margin-bottom: 30px !important;}"]
+
 <p style="text-align: justify; color: #222;">DM World Transportation is committed to maintaining safe operations in compliance with FMCSA and USDOT regulations.</p>
 &nbsp;
 <p style="text-align: justify; color: #222;">DM World Transportation is a provider of a variety of transportation services, which include dry van, refrigerated, dedicated, brokerage, and cargo van fleet. Our corporate office is located in Orlando FL.  Currently, we have a fleet of 120 tractors with over 120 trailers, as well as access to third-party equipment providers. DM World is able to arrange for the transportation of all general commodities for customers throughout the United States.</p>
@@ -55,8 +55,10 @@ Currently our company has partnered with one of the leading software companies M
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][heading2 title="Our Values" align="left"][/heading2][vc_column_text css=".vc_custom_1465379792472{margin-bottom: 0px !important;}"]Benean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio
 
 Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/3" el_class="padding20 light-text"][commitment_box title="DM World Commitment" extra_class="bg-2 padding30" css=".vc_custom_1486664552874{margin-right: 20px !important;margin-left: 20px !important;padding-bottom: 135px !important;}"]
+
 <p class="lead big"><i>We are commited to be the leading logistic solutions provider to our customer. We continually improving &amp; implementing a quality management to achieve it
-</i></p>
+</i>
+
 <img class="alignnone size-full wp-image-533" src="http://demo.vegatheme.com/gocargo/demo3/wp-content/uploads/sites/3/2016/06/signature.png" alt="signature" width="120" height="47" />
 <div class="divider-single"></div>
 <b>Abduvosit Razikov</b>, Vice President
