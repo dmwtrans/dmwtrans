@@ -1,6 +1,6 @@
 ---
 ID: 1152
-post_title: Home2
+post_title: About Us 2
 author: Russell Smith
 post_date: 2017-04-19 19:05:06
 post_excerpt: ""
