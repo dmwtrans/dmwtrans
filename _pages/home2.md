@@ -27,3 +27,4 @@ vidbg_img_url:
 vidbg_custom_overlay_html:
   - ""
 ---
+[vc_row][vc_column][vc_column_text css_animation="fadeIn"]DM World Transportation was established in 2012 as a motor-carrier providing common freight transportation services in all 48 states. As a small business, DM World started to operate with several owned units and continued to provide more reliable transportation services.   DM World Transportation has always been committed to fulfilling customer’s transportation needs and its priority is to provide superior service with efficient strategic planning[/vc_column_text][/vc_column][/vc_row]
