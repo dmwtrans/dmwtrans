@@ -47,13 +47,7 @@ vidbg_custom_overlay_html:
  	<li>Single point of contact with 24/7 support</li>
  	<li>Nationwide network of dray carriers with authorized port and rail access</li>
 </ul>
-[/vc_column_text][/vc_column][vc_column width="1/3"][vc_gallery interval="3" images="934" img_size="full" onclick=""][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vc_gallery interval="3" images="934" img_size="full" onclick=""][heading]Warehousing[/heading][vc_column_text]
-<ul>
- 	<li>Customized solutions ideal for surges, short-term and long-term capacity needs.</li>
- 	<li>Single point of contact with 24/7 support</li>
- 	<li>Nationwide network of dray carriers with authorized port and rail access</li>
-</ul>
-[/vc_column_text][/vc_column][vc_column width="2/3"][heading]Warehousing[/heading][vc_column_text]
+[/vc_column_text][/vc_column][vc_column width="1/3"][vc_gallery interval="3" images="934" img_size="full" onclick=""][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vc_gallery interval="3" images="934" img_size="full" onclick=""][/vc_column][vc_column width="2/3"][heading]Warehousing[/heading][vc_column_text]
 <ul>
  	<li>Available warehouse space (10,000 sq. feet)</li>
  	<li>3-Dock warehouse</li>
