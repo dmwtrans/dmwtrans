@@ -43,13 +43,13 @@ vidbg_custom_overlay_html:
  	<li>Providing the latest technologies customer service to provide transportation solutions, including: GPS Tracking, reporting, on-time service and customer satisfaction.</li>
  	<li>24/7 Dispatch/ Asset availability</li>
 </ul>
-[/vc_column_text][/vc_column][vc_column width="1/2"][vc_gallery interval="3" images="934" img_size="full" onclick=""][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vc_gallery interval="3" images="934" img_size="full" onclick=""][/vc_column][vc_column width="2/3"][heading]Temperature - Controlled[/heading][vc_column_text]We specialize in providing additional quality transportation management solutions with our partner carriers to our customers that want to achieve greater efficiencies within their supply chain. Through a combination of dedicated staff, technology, and processes we have the ability to generate measurable results for our customers.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="2/3"][heading]Power Only[/heading][vc_column_text]
+[/vc_column_text][/vc_column][vc_column width="1/2"][vc_gallery interval="3" images="934" img_size="full" onclick=""][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_gallery interval="3" images="934" img_size="full" onclick=""][/vc_column][vc_column width="1/2"][heading]Temperature - Controlled[/heading][vc_column_text]We specialize in providing additional quality transportation management solutions with our partner carriers to our customers that want to achieve greater efficiencies within their supply chain. Through a combination of dedicated staff, technology, and processes we have the ability to generate measurable results for our customers.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/2"][heading]Power Only[/heading][vc_column_text]
 <ul>
  	<li>Customized solutions ideal for surges, short-term and long-term capacity needs.</li>
  	<li>Single point of contact with 24/7 support</li>
  	<li>Nationwide network of dray carriers with authorized port and rail access</li>
 </ul>
-[/vc_column_text][/vc_column][vc_column width="1/3"][vc_gallery interval="3" images="934" img_size="full" onclick=""][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vc_gallery interval="3" images="934" img_size="full" onclick=""][/vc_column][vc_column width="2/3"][heading]Warehousing[/heading][vc_column_text]
+[/vc_column_text][/vc_column][vc_column width="1/2"][vc_gallery interval="3" images="934" img_size="full" onclick=""][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_gallery interval="3" images="934" img_size="full" onclick=""][/vc_column][vc_column width="1/2"][heading]Warehousing[/heading][vc_column_text]
 <ul>
  	<li>Available warehouse space (10,000 sq. feet)</li>
  	<li>3-Dock warehouse</li>
