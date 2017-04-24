@@ -31,7 +31,7 @@ vidbg_custom_overlay_html:
   - ""
 ---
 [vc_row][vc_column][vc_column_text el_class="services_text"]
-<p style="font-size: medium;">DM World Transportation is looking to expand its business relationships with companies across the world.  As a partner, you will receive the highest level of service including the upmost personalized attention and communication best suited for your business needs. Whether you need real-time updates or monthly reporting, DM World Transportation can customize programs specific to your transportation needs.</p>
+<p style="font-size: large; text-align: justify; margin-top: -12px;">DM World Transportation is looking to expand its business relationships with companies across the world.  As a partner, you will receive the highest level of service including the upmost personalized attention and communication best suited for your business needs. Whether you need real-time updates or monthly reporting, DM World Transportation can customize programs specific to your transportation needs.</p>
 [/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1489000767556{margin-top: -70px !important;}"][vc_column width="1/3"][vc_single_image image="1085" img_size=""][/vc_column][vc_column width="1/3"][/vc_column][vc_column width="1/3"][vc_single_image image="1085" img_size=""][/vc_column][/vc_row][vc_row][vc_column width="2/3"][heading]Van: Long Haul, Regional and Expedited[/heading][vc_column_text]
 <ul>
  	<li>Asset covering 48 states.</li>
