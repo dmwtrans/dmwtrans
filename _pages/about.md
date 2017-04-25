@@ -48,4 +48,4 @@ McLeod Software is the leading provider of trucking software, transportation dis
 <img class="alignnone size-full wp-image-533" src="http://demo.vegatheme.com/gocargo/demo3/wp-content/uploads/sites/3/2016/06/signature.png" alt="signature" width="120" height="47" />
 <div class="divider-single"></div>
 <b>Abduvosit Razikov</b>, Vice President
-DM World Transportation LLC[/commitment_box][vc_single_image image="1228" img_size="full" el_class="img-custom-1"][/vc_column][/vc_row]
+DM World Transportation LLC[/commitment_box][vc_single_image image="1233" img_size="full" el_class="img-custom-1"][/vc_column][/vc_row]
