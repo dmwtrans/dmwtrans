@@ -27,4 +27,14 @@ vidbg_img_url:
 vidbg_custom_overlay_html:
   - ""
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis magna fermentum, condimentum risus ut, rhoncus lectus. Duis vitae sapien non orci congue varius. Nullam consectetur ex vel libero maximus, vel scelerisque turpis imperdiet. Proin pharetra congue justo, a porttitor nisi bibendum id. Nam at egestas metus, blandit sagittis dui. Vivamus sem orci, pretium ornare nulla id, ultricies scelerisque magna. Nulla rutrum nulla nec massa lobortis iaculis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean ultricies enim at nunc luctus feugiat.
+After months of hard work and, due diligence we are delighted to officially announce the launch of our website today. Our goal with this new website is to provide our visitors, clients and customers with an easier way to learn about DMWorld Transportation. Our current and prospective clients will find useful information about our services and recent events and latest news from within. Our current and prospective clients will find useful information about our services and recent production numbers on the homepage.
+
+Amongst the new features the site contains integrated social media buttons for Facebook, Twitter and LinkedIn to foster improved communication with our clients. We will be constantly updating our content with helpful information, articles, blogs, newsletters, company announcements and client successes in the news section.
+
+We hope you find the new website fresh and modern; we worked hard to make sure it contains valuable information to assist you with your transportation and logistical needs.
+
+For any questions, suggestions, feedback or comments, please E-mail us.
+
+Thank You!
+
+The Team of DMWorld Transportation
