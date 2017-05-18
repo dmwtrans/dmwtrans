@@ -33,7 +33,7 @@ Amongst the new features the site contains integrated social media buttons for F
 
 We hope you find the new website fresh and modern; we worked hard to make sure it contains valuable information to assist you with your transportation and logistical needs.
 
-For any questions, suggestions, feedback or comments, please E-mail us.
+For any questions, suggestions, feedback or comments, please E-mail us at <a href="mailto:dmworld@dmwtrans.com">dmworld@dmwtrans.com</a>.
 
 Thank You!
 
