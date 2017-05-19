@@ -27,4 +27,4 @@ vidbg_img_url:
 vidbg_custom_overlay_html:
   - ""
 ---
-<div id="sc_normal_text" class="well well-sm sc_normal_text">[NEXForms id="1"]</div>
+[NEXForms id="1"]
