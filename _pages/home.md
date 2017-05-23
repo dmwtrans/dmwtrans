@@ -38,11 +38,11 @@ vidbg_custom_overlay_html:
 <p style="text-align: center;">Our Services</p>
 [/heading][/vc_column][vc_column css=".vc_custom_1487200523223{margin-top: 50px !important;}"][service_grid title="Services" number="4" idcate="services" service_columns="4"][/vc_column][/vc_row][vc_row fullwidth="yes" el_class="center"][vc_column][heading]
 <p style="text-align: center;">Our News</p>
-[/heading][/vc_column][vc_column css=".vc_custom_1495467007414{margin-top: 50px !important;margin-right: 50px !important;margin-left: 50px !important;padding-right: 10px !important;}" el_class="center"][vc_basic_grid post_type="post" max_items="10" element_width="2" gap="20" grid_id="vc_gid:1495563177200-ac0b2159200f2b25fc123f47194d0ed2-9" css=".vc_custom_1495466984375{margin-left: 0px !important;padding-left: 0px !important;}" el_class="center"][/vc_column][/vc_row][vc_section][/vc_section][vc_row bg_parallax_section="yes" parallax_image_section="399"][vc_column width="1/2" el_class="center-text"][ggmap height="500" lat="28.449691" long="-81.374335" zoom="12"][/vc_column][vc_column width="1/2" el_class="center-text"][contact-form-7 id="5"][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vc_column_text]
+[/heading][/vc_column][vc_column css=".vc_custom_1495467007414{margin-top: 50px !important;margin-right: 50px !important;margin-left: 50px !important;padding-right: 10px !important;}" el_class="center"][vc_basic_grid post_type="post" max_items="10" element_width="2" gap="20" grid_id="vc_gid:1495565750362-916709100f2c251b20a9017104835fc7-0" css=".vc_custom_1495466984375{margin-left: 0px !important;padding-left: 0px !important;}" el_class="center"][/vc_column][/vc_row][vc_section][/vc_section][vc_row bg_parallax_section="yes" parallax_image_section="399"][vc_column width="1/2" el_class="center-text"][ggmap height="500" lat="28.449691" long="-81.374335" zoom="12"][/vc_column][vc_column width="1/2" el_class="center-text"][contact-form-7 id="5"][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vc_column_text]
 <h2 style="font-family: Lato;">Stay Connected</h2>
 <div style="width: 100%; border-top: 0px black solid;">
 <div style="float: left; width: 100%; height: 100%; padding-right: 32px;">
-<p style="margin-top: -10px; color: #1367a5; text-align: justify; width: 100%">[email-subscribers namefield="YES" desc="" group="Public"]</p>
+<p style="margin-top: -10px; color: #1367a5; text-align: justify; width: 100%;">[email-subscribers namefield="NO" desc="" group="Public"]</p>
 <img src="http://www.dmworldtransportation.com/wp-content/uploads/2017/05/fb-logo.png" />  <img src="http://www.dmworldtransportation.com/wp-content/uploads/2017/05/tw-logo.png" />  <img src="http://www.dmworldtransportation.com/wp-content/uploads/2017/05/li-logo.png" />
 
 </div>
